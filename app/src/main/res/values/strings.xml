@@ -3,4 +3,5 @@
     <string name="hint">Число, меньшее 7</string>
     <string name="button">Вычислить</string>
     <string name="Label">Введите число:</string>
+    <string name="label2">Ответ</string>
 </resources>
